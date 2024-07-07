@@ -1,0 +1,9 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1720367282
+Hold.gd::GDScript::-1::1720365053::0::1::::<>RayCast3D<>::
+icon.svg::CompressedTexture2D::8460923840917308280::1720365053::1720365194::1::::<><>::
+Main.tscn::PackedScene::3076649513776267029::1720365489::0::1::::<><>::uid://wssnx1an6whd::::res://Player.tscn<>res://Player.gd
+Player.gd::GDScript::-1::1720365053::0::1::::<>CharacterBody3D<>::
+Player.tscn::PackedScene::1582430729020933009::1720365053::0::1::::<><>::res://Hold.gd
+RayCast3D.gd::GDScript::-1::1720365053::0::1::::<>RayCast3D<>::
+README.md::TextFile::-1::1720365053::0::1::::<><>::
