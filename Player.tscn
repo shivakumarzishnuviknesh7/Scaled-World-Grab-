@@ -17,8 +17,8 @@ shape = SubResource("CapsuleShape3D_oyy2r")
 [node name="Hold" type="Node3D" parent="."]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.302978, -1.8212)
 
-[node name="RayCast3D" type="RayCast3D" parent="."]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.61, -0.486646)
+[node name="RayCast3D" type="RayCast3D" parent="." groups=["grab"]]
+transform = Transform3D(2, 0, 0, 0, 2, 0, 0, 0, 2, 0, 0.61, -0.486646)
 target_position = Vector3(0, 0, -3)
 collide_with_areas = true
 script = ExtResource("1_ply18")
