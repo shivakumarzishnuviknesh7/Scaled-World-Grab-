@@ -1,6 +1,6 @@
 
 
-# Ray-Casting Object Manipulation in Godot
+# Ray Casting Object Manipulation in Godot
 
 This project demonstrates the use of the ray-casting technique to grab and manipulate objects within the Godot game engine. Ray-casting is a grabbing technique where a light ray extends from the user's hand. By intersecting an object with this ray and releasing the button, the object is attached to the ray. Users can then manipulate the object using wrist or arm motion.
 
